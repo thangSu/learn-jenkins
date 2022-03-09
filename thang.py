@@ -1,2 +1,2 @@
 print("thang")
-print("thang"
+print("thang")
